@@ -1,0 +1,17 @@
+.titulo{
+    background: #a7a7a7;
+    color: rgb(59, 59, 59);
+    padding: 10px 0;
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+    
+}
+form {
+    text-align: center;
+    padding: 10px 0;
+    background: #424242;
+    color: rgb(255, 255, 255);
+    width: 30%;
+    margin-left: 35%;
+}
